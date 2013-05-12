@@ -13,5 +13,5 @@ public class Constants {
 			
 	public static double latViennaQuadrant= (1 / 111d);
 
-	
+	//
 }
